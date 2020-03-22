@@ -1,0 +1,2 @@
+There was a program written to generate the 3d plot used in the report, but it was unforchunately lost.
+It will be re-written within the week, but until then this will have to do.
